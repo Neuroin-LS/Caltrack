@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bmi"
+        android:icon="@drawable/ic_bmi_selector"
+        android:title="" />
+    <item
+        android:id="@+id/food"
+        android:icon="@drawable/ic_food_selector"
+        android:title="" />
+    <item
+        android:id="@+id/kcal"
+        android:icon="@drawable/ic_kcal_selector"
+        android:title="" />
+    <item
+        android:id="@+id/person"
+        android:icon="@drawable/ic_person_selector"
+        android:title="" />
+</menu>
